@@ -1,0 +1,42 @@
+{
+  "routes": [
+    {
+      "route": "/v1/version.json",
+      "headers": {
+        "cache-control": "no-cache"
+      }
+    },
+    {
+      "route": "/v1/manifest.json",
+      "headers": {
+        "cache-control": "no-cache"
+      }
+    },
+    {
+      "route": "/v1/manifest.sig",
+      "headers": {
+        "cache-control": "no-cache"
+      }
+    },
+    {
+      "route": "/v1/bank-*",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "route": "/v1/images/*",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable"
+      }
+    }
+  ],
+  "mimeTypes": {
+    ".sig": "text/plain",
+    ".webp": "image/webp",
+    ".json": "application/json"
+  },
+  "globalHeaders": {
+    "X-Content-Type-Options": "nosniff"
+  }
+}

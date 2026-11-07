@@ -1,0 +1,3434 @@
+[
+  {
+    "file": "pictures/flags/france.webp",
+    "subject": "France",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+    "author": "Original: Unknown Vector: SKopp",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/germany.webp",
+    "subject": "Germany",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg",
+    "author": "User:SKopp, User:Madden, and other users",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/italy.webp",
+    "subject": "Italy",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/united_kingdom.webp",
+    "subject": "United Kingdom",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(1-2).svg",
+    "author": "Original: Acts of Union 1800 Vector: Zscout370",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/united_states.webp",
+    "subject": "United States",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_(DDD-F-416E_specifications).svg",
+    "author": "Vector file created by Dbenbenn, Zscout370, Jacobolus, Indolences, and Technion.",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/japan.webp",
+    "subject": "Japan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/canada.webp",
+    "subject": "Canada",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg",
+    "author": "Original: George F. G. Stanley; vector: Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/brazil.webp",
+    "subject": "Brazil",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Brazil.svg",
+    "author": "Raimundo Teixeira Mendes",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/spain.webp",
+    "subject": "Spain",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_Spain.svg",
+    "author": "Antonio Valdés y Fernández Bazán",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/china.webp",
+    "subject": "China",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_People's_Republic_of_China.svg",
+    "author": "Zeng Liansong",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/india.webp",
+    "subject": "India",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_India.svg",
+    "author": "Government of India",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/mexico.webp",
+    "subject": "Mexico",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg",
+    "author": "Omar Alejandro Covarrubias Neri, based on the arms by Francisco Eppens Helguera",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/australia.webp",
+    "subject": "Australia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(converted).svg",
+    "author": "Ian Fieggen (vector graphics)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/switzerland.webp",
+    "subject": "Switzerland",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Switzerland_(Pantone).svg",
+    "author": "Marc Mongenet and Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/south_korea.webp",
+    "subject": "South Korea",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg",
+    "author": "Original: Government of the Republic of Korea Vector: Great Brightstar and others",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/greece.webp",
+    "subject": "Greece",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Greece.svg",
+    "author": "Unknown author",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/sweden.webp",
+    "subject": "Sweden",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Sweden.svg",
+    "author": "Jon Harald Søby and others.",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/argentina.webp",
+    "subject": "Argentina",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Argentina.svg",
+    "author": "Manuel Belgrano",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/turkey.webp",
+    "subject": "Turkey",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg",
+    "author": "David Benbennick (original author)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/portugal.webp",
+    "subject": "Portugal",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal_(official).svg",
+    "author": "Original: Columbano Bordalo Pinheiro Vector: Vítor Luís Rodrigues, António Martins-Tuválkin",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/ireland.webp",
+    "subject": "Ireland",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg",
+    "author": "Éire",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/norway.webp",
+    "subject": "Norway",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Norway.svg",
+    "author": "Original: Fredrik Meltzer Vector: Gutten på Hemsen",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/denmark.webp",
+    "subject": "Denmark",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg",
+    "author": "Madden and others",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/netherlands.webp",
+    "subject": "Netherlands",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg",
+    "author": "Zscout370",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/south_africa.webp",
+    "subject": "South Africa",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Africa.svg",
+    "author": "Flag design by Frederick Brownell, image by Wikimedia Commons users",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/jamaica.webp",
+    "subject": "Jamaica",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Jamaica.svg",
+    "author": "SKopp",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/poland.webp",
+    "subject": "Poland",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Poland.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/egypt.webp",
+    "subject": "Egypt",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Egypt.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/thailand.webp",
+    "subject": "Thailand",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Thailand.svg",
+    "author": "Zscout370",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/new_zealand.webp",
+    "subject": "New Zealand",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_New_Zealand.svg",
+    "author": "Original: Albert Hastings Markham; vector: Zscout370, Hugh Jass and others",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/ukraine.webp",
+    "subject": "Ukraine",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg",
+    "author": "Government of Ukraine",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/finland.webp",
+    "subject": "Finland",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Finland.svg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/cuba.webp",
+    "subject": "Cuba",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Cuba.svg",
+    "author": "Miguel Teurbe Tolón and Narciso López",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/nepal.webp",
+    "subject": "Nepal",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Nepal.svg",
+    "author": "Drawn by Pumbaa80, Achim1999",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/vietnam.webp",
+    "subject": "Vietnam",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Vietnam.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/kenya.webp",
+    "subject": "Kenya",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Kenya.svg",
+    "author": "User:Pumbaa80",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/colombia.webp",
+    "subject": "Colombia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Colombia.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/bhutan.webp",
+    "subject": "Bhutan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Bhutan.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/sri_lanka.webp",
+    "subject": "Sri Lanka",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Sri_Lanka.svg",
+    "author": "Original: Sri Lanka Vectorization: Zscout370, Mike Rohsopht",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/kazakhstan.webp",
+    "subject": "Kazakhstan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Kazakhstan.svg",
+    "author": "Shaken Niyazbekop",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/mongolia.webp",
+    "subject": "Mongolia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Mongolia.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/seychelles.webp",
+    "subject": "Seychelles",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Seychelles.svg",
+    "author": "User:Vxb83",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/barbados.webp",
+    "subject": "Barbados",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Barbados.svg",
+    "author": "User:Denelson83",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/lebanon.webp",
+    "subject": "Lebanon",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Lebanon.svg",
+    "author": "Henri Pharaon",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/ethiopia.webp",
+    "subject": "Ethiopia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia.svg",
+    "author": "Drawn by User:SKopp",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/peru.webp",
+    "subject": "Peru",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Peru.svg",
+    "author": "David Benbennick",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/croatia.webp",
+    "subject": "Croatia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Croatia.svg",
+    "author": "Nightstallion, Denelson83, Zscout370 and other Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/ghana.webp",
+    "subject": "Ghana",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Ghana.svg",
+    "author": "Theodosia Okoh",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/bangladesh.webp",
+    "subject": "Bangladesh",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Bangladesh.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/morocco.webp",
+    "subject": "Morocco",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Morocco.svg",
+    "author": "Denelson83, Zscout370",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/landmarks/eiffel_tower.webp",
+    "subject": "Eiffel Tower",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+    "author": "Benh LIEU SONG",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/landmarks/colosseum.webp",
+    "subject": "Colosseum",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "author": "FeaturedPics",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/taj_mahal.webp",
+    "subject": "Taj Mahal",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg",
+    "author": "Yann; edited by Jim Carter",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/great_pyramid_of_giza.webp",
+    "subject": "Great Pyramid of Giza",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+    "author": "Douwe C. van der Zee",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/statue_of_liberty.webp",
+    "subject": "Statue of Liberty",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+    "author": "AskALotl",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "pictures/landmarks/great_wall_of_china.webp",
+    "subject": "Great Wall of China",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "author": "Severin.stalder",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/leaning_tower_of_pisa.webp",
+    "subject": "Leaning Tower of Pisa",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Leaning_Tower.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "file": "pictures/landmarks/sydney_opera_house.webp",
+    "subject": "Sydney Opera House",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg",
+    "author": "BAVhah",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/christ_the_redeemer.webp",
+    "subject": "Christ the Redeemer",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "file": "pictures/landmarks/big_ben.webp",
+    "subject": "Big Ben",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg",
+    "author": "Christian David",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/stonehenge.webp",
+    "subject": "Stonehenge",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+    "author": "garethwiscombe",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/golden_gate_bridge.webp",
+    "subject": "Golden Gate Bridge",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+    "author": "Frank Schulenburg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/machu_picchu.webp",
+    "subject": "Machu Picchu",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+    "author": "Draceane",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/petra.webp",
+    "subject": "Petra",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Petra_,_Al-Khazneh_2.jpg",
+    "author": "Faraheed",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/angkor_wat.webp",
+    "subject": "Angkor Wat",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+    "author": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/mount_fuji.webp",
+    "subject": "Mount Fuji",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
+    "author": "Suicasmo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/moai.webp",
+    "subject": "Moai",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:AhuTongariki.JPG",
+    "author": "Ian Sewell",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5"
+  },
+  {
+    "file": "pictures/landmarks/chichen_itza.webp",
+    "subject": "Chichen Itza",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+    "author": "Daniel Schwen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/parthenon.webp",
+    "subject": "Parthenon",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg",
+    "author": "Steve Swayne",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/neuschwanstein_castle.webp",
+    "subject": "Neuschwanstein Castle",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_2013.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "file": "pictures/landmarks/victoria_falls.webp",
+    "subject": "Victoria Falls",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/sagrada_familia.webp",
+    "subject": "Sagrada Família",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
+    "author": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/uluru.webp",
+    "subject": "Uluru",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:ULURU.jpg",
+    "author": "Ek2030372672",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/brandenburg_gate.webp",
+    "subject": "Brandenburg Gate",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/forbidden_city.webp",
+    "subject": "Forbidden City",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony_(Forbidden_City)_1.jpg",
+    "author": "EditQ",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/abu_simbel.webp",
+    "subject": "Abu Simbel",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_03.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/table_mountain.webp",
+    "subject": "Table Mountain",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg",
+    "author": "Danie van der Merwe from Cape Town, South Africa",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/borobudur.webp",
+    "subject": "Borobudur",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Borobudur_Indonesia_13.jpg",
+    "author": "Philip Nalangan",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/landmarks/mont_saint_michel.webp",
+    "subject": "Mont-Saint-Michel",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg",
+    "author": "Amaustan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/iguazu_falls.webp",
+    "subject": "Iguazu Falls",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg",
+    "author": "Mariordo (Mario Roberto Durán Ortiz)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/giant_panda.webp",
+    "subject": "Giant panda",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Grosser_Panda.JPG",
+    "author": "J. Patrick Fischer",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/koala.webp",
+    "subject": "Koala",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Koala_climbing_tree.jpg",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/zebra.webp",
+    "subject": "Zebra",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Equus_quagga_burchellii_-_Etosha,_2014.jpg",
+    "author": "Yathin S Krishnappa",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/flamingo.webp",
+    "subject": "Flamingo",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:010_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/kangaroo.webp",
+    "subject": "Kangaroo",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Red_Kangaroos_at_Sturt_National_Park_NSW.jpg",
+    "author": "PotMart186",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/polar_bear.webp",
+    "subject": "Polar bear",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska_(cropped).jpg",
+    "author": "Alan Wilson",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/toucan.webp",
+    "subject": "Toucan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/peacock.webp",
+    "subject": "Peacock",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Indian_Peacock_courtship_display_at_Pench_national_park_(April,_2024)_08,_edited.jpg",
+    "author": "Rohit Sharma (some additional editing by Cart)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/animals/hippopotamus.webp",
+    "subject": "Hippopotamus",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Portrait_Hippopotamus_in_the_water.jpg",
+    "author": "Muhammad Mahdi Karim",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/red_panda.webp",
+    "subject": "Red panda",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Red_Panda,_Gentle_Tree-Dweller_of_the_Himalayas.jpg",
+    "author": "Sunuwargr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/capybara.webp",
+    "subject": "Capybara",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Capybaracropped.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/platypus.webp",
+    "subject": "Platypus",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/axolotl.webp",
+    "subject": "Axolotl",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Axolotl_ganz.jpg",
+    "author": "LoKiLeCh",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/animals/meerkat.webp",
+    "subject": "Meerkat",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta)_Tswalu.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/komodo_dragon.webp",
+    "subject": "Komodo dragon",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:202306_Varanus_komodoensis.jpg",
+    "author": "James Jolokia (james1203)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/animals/mandrill.webp",
+    "subject": "Mandrill",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mandrill_Albert_September_2015_Zoo_Berlin_(2).jpg",
+    "author": "Katma0601",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/snow_leopard.webp",
+    "subject": "Snow leopard",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Irbis4.JPG",
+    "author": "Irbis1983",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/animals/puffin.webp",
+    "subject": "Puffin",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/ring_tailed_lemur.webp",
+    "subject": "Ring-tailed lemur",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ring-tailed_lemur_(Lemur_catta).jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/narwhal.webp",
+    "subject": "Narwhal",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg",
+    "author": "пресс-служба ПАО \"Газпром нефть\"",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/sloth.webp",
+    "subject": "Sloth",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bradypus.jpg",
+    "author": "Stefan Laube (Tauchgurke)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/animals/okapi.webp",
+    "subject": "Okapi",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Saint-Aignan_(Loir-et-Cher)._Okapi.jpg",
+    "author": "Daniel Jolivet",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/pangolin.webp",
+    "subject": "Pangolin",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Pangolin_borneo.jpg",
+    "author": "Piekfrosch at German Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/animals/quokka.webp",
+    "subject": "Quokka",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Setonix_brachyurus_on_Rottnest_Island_1.jpg",
+    "author": "Christophe95",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/shoebill.webp",
+    "subject": "Shoebill",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_-Ueno_Zoo,_Tokyo,_Japan-8a.jpg",
+    "author": "Bob Owen",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/aye_aye.webp",
+    "subject": "Aye-aye",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Wild_aye_aye.jpg",
+    "author": "nomis-simon",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/fennec_fox.webp",
+    "subject": "Fennec fox",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Vulpes_zerda.jpg",
+    "author": "Drew Avery",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/malayan_tapir.webp",
+    "subject": "Malayan tapir",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg",
+    "author": "Rufus46",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/proboscis_monkey.webp",
+    "subject": "Proboscis monkey",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Proboscis_Monkey_in_Borneo.jpg",
+    "author": "David Dennis",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/animals/cassowary.webp",
+    "subject": "Cassowary",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Southern_Cassowary_7071.jpg",
+    "author": "Summerdrought",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/flags/russia.webp",
+    "subject": "Russia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg",
+    "author": "Peter the Great",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/belgium.webp",
+    "subject": "Belgium",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Belgium.svg",
+    "author": "Dbenbenn and others",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/austria.webp",
+    "subject": "Austria",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Austria.svg",
+    "author": "Bundesministerium für Landesverteidigung",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/czech_republic.webp",
+    "subject": "Czech Republic",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Czech_Republic.svg",
+    "author": "Jaroslav Kursa",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/iceland.webp",
+    "subject": "Iceland",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Iceland.svg",
+    "author": "Original: Matthías Þórðarson Vector: Árni Dagur and Magasjukur2",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/hungary.webp",
+    "subject": "Hungary",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Hungary.svg",
+    "author": "SKopp",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/romania.webp",
+    "subject": "Romania",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Romania.svg",
+    "author": "AdiJapan",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/chile.webp",
+    "subject": "Chile",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Chile.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/pakistan.webp",
+    "subject": "Pakistan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Pakistan.svg",
+    "author": "User:Zscout370",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/indonesia.webp",
+    "subject": "Indonesia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg",
+    "author": "Jayakatwang",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/philippines.webp",
+    "subject": "Philippines",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Philippines.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/singapore.webp",
+    "subject": "Singapore",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Singapore.svg",
+    "author": "Original: Government of Singapore Vector: Zscout370",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/malaysia.webp",
+    "subject": "Malaysia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Malaysia.svg",
+    "author": "MapGrid (old version SKopp, Zscout370 and Ranking Update)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/nigeria.webp",
+    "subject": "Nigeria",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Nigeria.svg",
+    "author": "Jon Harald Søby.",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/cyprus.webp",
+    "subject": "Cyprus",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Cyprus.svg",
+    "author": "İsmet Güney, SVG by User:Vzb83~commonswiki",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/bulgaria.webp",
+    "subject": "Bulgaria",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Bulgaria.svg",
+    "author": "SKopp",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/slovakia.webp",
+    "subject": "Slovakia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Slovakia.svg",
+    "author": "Original: Ladislav Čisárik and Ladislav Vrtel Vector: SKopp",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/estonia.webp",
+    "subject": "Estonia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Estonia.svg",
+    "author": "Original: Unknown author Vector: SKopp, PeepP and ‍others",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/albania.webp",
+    "subject": "Albania",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Albania.svg",
+    "author": "Sadik Kaceli",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/malta.webp",
+    "subject": "Malta",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Malta.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/georgia.webp",
+    "subject": "Georgia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Georgia.svg",
+    "author": "Last update by MapGrid SKopp",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/bosnia_and_herzegovina.webp",
+    "subject": "Bosnia and Herzegovina",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Bosnia_and_Herzegovina.svg",
+    "author": "Mladen Kolobarić",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/uruguay.webp",
+    "subject": "Uruguay",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Uruguay.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/venezuela.webp",
+    "subject": "Venezuela",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Venezuela.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/panama.webp",
+    "subject": "Panama",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Panama.svg",
+    "author": "Zscout370 et al.",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/costa_rica.webp",
+    "subject": "Costa Rica",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Costa_Rica.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/united_arab_emirates.webp",
+    "subject": "United Arab Emirates",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates.svg",
+    "author": "Abdulla Mohammed Al Maainah",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/qatar.webp",
+    "subject": "Qatar",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Qatar.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/cambodia.webp",
+    "subject": "Cambodia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Cambodia.svg",
+    "author": "Unknown author",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/algeria.webp",
+    "subject": "Algeria",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Algeria.svg",
+    "author": "Original: National Liberation Front of Algeria Vector: SKopp",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/tunisia.webp",
+    "subject": "Tunisia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Tunisia.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/tanzania.webp",
+    "subject": "Tanzania",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Tanzania.svg",
+    "author": "Unknown author",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/uganda.webp",
+    "subject": "Uganda",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Uganda.svg",
+    "author": "tobias",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/fiji.webp",
+    "subject": "Fiji",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Fiji.svg",
+    "author": "Tessa Mackenzie",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/papua_new_guinea.webp",
+    "subject": "Papua New Guinea",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Papua_New_Guinea.svg",
+    "author": "User:Nightstallion",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/lithuania.webp",
+    "subject": "Lithuania",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Lithuania.svg",
+    "author": "Original: Jonas Basanavičius, Tadas Daugirdas and Antanas Žmuidzinavičius Vector: SKopp The SVG...",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/north_macedonia.webp",
+    "subject": "North Macedonia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Macedonia.svg",
+    "author": "User:SKopp, redrawn by User:Gabbe",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/armenia.webp",
+    "subject": "Armenia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Armenia.svg",
+    "author": "Original: Stepan Malkhasyants Vector: SKopp",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/uzbekistan.webp",
+    "subject": "Uzbekistan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Uzbekistan.svg",
+    "author": "Farhod Yoʻldoshev",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/laos.webp",
+    "subject": "Laos",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Laos.svg",
+    "author": "SKopp",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/jordan.webp",
+    "subject": "Jordan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Jordan.svg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/trinidad_and_tobago.webp",
+    "subject": "Trinidad and Tobago",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Trinidad_and_Tobago.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/bahamas.webp",
+    "subject": "Bahamas",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Bahamas.svg",
+    "author": "Government of Bahamas",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/guyana.webp",
+    "subject": "Guyana",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Guyana.svg",
+    "author": "Whitney Smith",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/botswana.webp",
+    "subject": "Botswana",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Botswana.svg",
+    "author": "SKopp, Gabbe, Madden",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/rwanda.webp",
+    "subject": "Rwanda",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Rwanda.svg",
+    "author": "Original: Unknown Vector: Zscout370",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/zimbabwe.webp",
+    "subject": "Zimbabwe",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Zimbabwe.svg",
+    "author": "Wikimedia Commons contributors",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/madagascar.webp",
+    "subject": "Madagascar",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Madagascar.svg",
+    "author": "Unknown author",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/mauritius.webp",
+    "subject": "Mauritius",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Mauritius.svg",
+    "author": "Zscout370",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/flags/kiribati.webp",
+    "subject": "Kiribati",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Flag_of_Kiribati.svg",
+    "author": "User:Hanzlan",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/landmarks/tower_bridge.webp",
+    "subject": "Tower Bridge",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Cmglee_Tower_Bridge_tall_ship.jpg",
+    "author": "Cmglee",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/arc_de_triomphe.webp",
+    "subject": "Arc de Triomphe",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg",
+    "author": "ZeusUpsistos",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/notre_dame_de_paris.webp",
+    "subject": "Notre-Dame de Paris",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris,_4_October_2017.jpg",
+    "author": "Ali Sabbagh",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "pictures/landmarks/trevi_fountain.webp",
+    "subject": "Trevi Fountain",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg",
+    "author": "NikonZ7II",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/saint_basils_cathedral.webp",
+    "subject": "Saint Basil's Cathedral",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Saint_Basil's_Cathedral_in_Moscow.jpg",
+    "author": "Tsy1980",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/buckingham_palace.webp",
+    "subject": "Buckingham Palace",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_London_Morning_2020_01_(cropped).jpg",
+    "author": "Julian Herzog (Website)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/landmarks/matterhorn.webp",
+    "subject": "Matterhorn",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domh%C3%BCtte_-_2.jpg",
+    "author": "Photo: chil, on Camptocamp.org Derivative work:Zacharie Grossen",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/hagia_sophia.webp",
+    "subject": "Hagia Sophia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+    "author": "Adli Wahid",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/pantheon.webp",
+    "subject": "Pantheon",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg",
+    "author": "NikonZ7II",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/palace_of_versailles.webp",
+    "subject": "Palace of Versailles",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg",
+    "author": "Myrabella",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/edinburgh_castle.webp",
+    "subject": "Edinburgh Castle",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_the_North.JPG",
+    "author": "Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/alhambra.webp",
+    "subject": "Alhambra",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+    "author": "Jebulon",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "pictures/landmarks/florence_cathedral.webp",
+    "subject": "Florence Cathedral",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+    "author": "Gary Campbell-Hall",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/charles_bridge.webp",
+    "subject": "Charles Bridge",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Lascar_Statues_on_Charles_Bridge_(4501615521).jpg",
+    "author": "Jorge Láscar from Australia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/hungarian_parliament_building.webp",
+    "subject": "Hungarian Parliament Building",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_from_across_the_Danube,_2025-01-11.jpg",
+    "author": "Kilyann Le Hen",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/landmarks/kinderdijk.webp",
+    "subject": "Kinderdijk",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:KinderdijkMolens02.jpg",
+    "author": "Lucas Hirschegger",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/landmarks/meteora.webp",
+    "subject": "Meteora",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Meteora's_monastery_2.jpg",
+    "author": "Stathis floros",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/preikestolen.webp",
+    "subject": "Preikestolen",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Norway_Preikestolen.jpg",
+    "author": "Aconcagua",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/belem_tower.webp",
+    "subject": "Belém Tower",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Torre_Bel%C3%A9m_April_2009-4a.jpg",
+    "author": "Alvesgaspar",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/plitvice_lakes.webp",
+    "subject": "Plitvice Lakes",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:View_in_Plitvice_Lakes_National_Park.jpg",
+    "author": "Zysko serhii",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/petronas_towers.webp",
+    "subject": "Petronas Towers",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Twin_Towers(2023).jpg",
+    "author": "NoVaEarthWiki11",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/marina_bay_sands.webp",
+    "subject": "Marina Bay Sands",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_(I).jpg",
+    "author": "This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention...",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/landmarks/kinkaku_ji.webp",
+    "subject": "Kinkaku-ji",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg",
+    "author": "Nacaru",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/himeji_castle.webp",
+    "subject": "Himeji Castle",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Himeji_castle_in_may_2015.jpg",
+    "author": "Nikos Kitsakis",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/temple_of_heaven.webp",
+    "subject": "Temple of Heaven",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven_20160323_01.jpg",
+    "author": "Shujianyang",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/gateway_of_india.webp",
+    "subject": "Gateway of India",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Gateway_of_india's_look_in_evening.jpg",
+    "author": "Akshay465",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/cappadocia.webp",
+    "subject": "Cappadocia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Cappadocia_balloon_trip,_Ortahisar_Castle_(11893715185).jpg",
+    "author": "Arian Zwegers from Brussels, Belgium",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/pamukkale.webp",
+    "subject": "Pamukkale",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Pamukkale,_Denizli_2026_68.jpg",
+    "author": "Biologg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/hawa_mahal.webp",
+    "subject": "Hawa Mahal",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg",
+    "author": "Chainwit.",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/sigiriya.webp",
+    "subject": "Sigiriya",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Sigiriya_(141688197).jpeg",
+    "author": "Wrobell",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/wat_arun.webp",
+    "subject": "Wat Arun",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg",
+    "author": "Mastertongapollo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/registan.webp",
+    "subject": "Registan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:RegistanSquare_Samarkand.jpg",
+    "author": "Registan_-_Gusjer.jpg: Gustavo Jeronimo from Aranjuez, Spain derivative work: MrPanyGoff",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/persepolis.webp",
+    "subject": "Persepolis",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg",
+    "author": "Laurens R. Krol",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/landmarks/paro_taktsang.webp",
+    "subject": "Paro Taktsang",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Paro_Taktsang,_Bhutan_(edited).jpg",
+    "author": "Original: Nina R from Africa Derivative work: UnpetitproleX",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/banaue_rice_terraces.webp",
+    "subject": "Banaue Rice Terraces",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Banaue-terrace.JPG",
+    "author": "User: (WT-shared) Roundtheworld at wts wikivoyage",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/landmarks/chocolate_hills.webp",
+    "subject": "Chocolate Hills",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Chocolate_Hills_overview.JPG",
+    "author": "P199",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/gyeongbokgung.webp",
+    "subject": "Gyeongbokgung",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/bagan.webp",
+    "subject": "Bagan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bagan,_Burma.jpg",
+    "author": "Corto Maltese 1999",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/great_sphinx_of_giza.webp",
+    "subject": "Great Sphinx of Giza",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Sphinx_with_the_third_pyramid.jpg",
+    "author": "Hesham Ebaid",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "pictures/landmarks/mount_kilimanjaro.webp",
+    "subject": "Mount Kilimanjaro",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg",
+    "author": "Sergey Pesterev",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/karnak.webp",
+    "subject": "Karnak",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+    "author": "René Hourdry",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/deadvlei.webp",
+    "subject": "Deadvlei",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:054d_Dead_camel_thorn_trees_in_Deadvlei_Photo_by_Giles_Laurent.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/avenue_of_the_baobabs.webp",
+    "subject": "Avenue of the Baobabs",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Adansonia_grandidieri_Pat_Hooper.jpg",
+    "author": "Pat Hooper from Chicago, IL, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/landmarks/ait_benhaddou.webp",
+    "subject": "Aït Benhaddou",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ksar_A%C3%AFt_Benhaddou,_Marocco_(%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93).jpg",
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/amphitheatre_of_el_jem.webp",
+    "subject": "Amphitheatre of El Jem",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:The_Amphitheatre_of_El_Jem,_built_around_AD_238_in_Thysdrus_in_Africa_Proconsularis,_the_estimated_capacity_is_35,000,_Tunisia_-_52717762494.jpg",
+    "author": "Carole Raddato",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/landmarks/great_zimbabwe.webp",
+    "subject": "Great Zimbabwe",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Conical_Tower_-_Great_Enclosure_III_(33736918448).jpg",
+    "author": "Andrew Moore from Johannesburg, South Africa",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/landmarks/chefchaouen.webp",
+    "subject": "Chefchaouen",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Chefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg",
+    "author": "Badr Rachadi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/mount_rushmore.webp",
+    "subject": "Mount Rushmore",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mount_Rushmore_detail_view_(100MP).jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/niagara_falls.webp",
+    "subject": "Niagara Falls",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/grand_canyon.webp",
+    "subject": "Grand Canyon",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:GrandCanyonWinter2008.JPG",
+    "author": "Pescaiolo",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/landmarks/empire_state_building.webp",
+    "subject": "Empire State Building",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_(aerial_view).jpg",
+    "author": "Sam Valadi",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/landmarks/brooklyn_bridge.webp",
+    "subject": "Brooklyn Bridge",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_-_New_York_City.jpg",
+    "author": "Simone Roda from Italia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/space_needle.webp",
+    "subject": "Space Needle",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Space_Needle_2011-07-04.jpg",
+    "author": "Jordon Kalilich",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/landmarks/cn_tower.webp",
+    "subject": "CN Tower",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CN_Tower_1976.jpg",
+    "author": "Robert Taylor from Stirling, Canada",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/gateway_arch.webp",
+    "subject": "Gateway Arch",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Gateway_Arch_from_air.jpg",
+    "author": "US_Air_Force_060810-F-6701P-001_B-2_Spirit_flies_over_St._Louis.jpg: U.S. Air Force photo/Tech....",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/landmarks/teotihuacan.webp",
+    "subject": "Teotihuacan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg",
+    "author": "Hdlrosa",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/tikal.webp",
+    "subject": "Tikal",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Tikal_3.jpg",
+    "author": "Mundo Maya",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/monument_valley.webp",
+    "subject": "Monument Valley",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Monument_Valley,_Utah,_USA_(23611451292).jpg",
+    "author": "Domenico Convertini",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/landmarks/sugarloaf_mountain.webp",
+    "subject": "Sugarloaf Mountain",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:P%C3%A3o_de_A%C3%A7ucar_-_Sugarloaf_Mountain_-_Zuckerhut_-_2022.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "file": "pictures/landmarks/angel_falls.webp",
+    "subject": "Angel Falls",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Salto_del_Angel-Canaima-Venezuela18.JPG",
+    "author": "Diego Delso",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "file": "pictures/landmarks/salar_de_uyuni.webp",
+    "subject": "Salar de Uyuni",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg",
+    "author": "Luca Galuzzi (Lucag), edit by Trialsanderrors",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  {
+    "file": "pictures/landmarks/perito_moreno_glacier.webp",
+    "subject": "Perito Moreno Glacier",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_2023.jpg",
+    "author": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/torres_del_paine.webp",
+    "subject": "Torres del Paine",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Patagonia-62_(26027075260).jpg",
+    "author": "Ajay Suresh from New York, NY, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/landmarks/nazca_lines.webp",
+    "subject": "Nazca Lines",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_49.JPG",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/mount_roraima.webp",
+    "subject": "Mount Roraima",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Roraima3_(79).JPG",
+    "author": "Paolo Costa Baldi",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/landmarks/sydney_harbour_bridge.webp",
+    "subject": "Sydney Harbour Bridge",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge-16_October_2025.jpg",
+    "author": "Servite et contribuere",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "pictures/landmarks/twelve_apostles.webp",
+    "subject": "Twelve Apostles",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:The_Twelve_Apostles_2011.jpg",
+    "author": "Michael J Fromholtz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/milford_sound.webp",
+    "subject": "Milford Sound",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Milford_Sound_Mitre_Peak.JPG",
+    "author": "MurielBendel",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/landmarks/wave_rock.webp",
+    "subject": "Wave Rock",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Wave_rock_(2005).jpg",
+    "author": "Kaliumfredrik at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/landmarks/bora_bora.webp",
+    "subject": "Bora Bora",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:BoraBora_SEtienne.jpg",
+    "author": "Samuel Etienne",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/lion.webp",
+    "subject": "Lion",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/tiger.webp",
+    "subject": "Tiger",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/african_elephant.webp",
+    "subject": "African elephant",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/giraffe.webp",
+    "subject": "Giraffe",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_angolensis,_flip.jpg",
+    "author": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/gorilla.webp",
+    "subject": "Gorilla",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Gorille_des_plaines_de_l'ouest_%C3%A0_l'Espace_Zoologique.jpg",
+    "author": "Thurundir",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/cheetah.webp",
+    "subject": "Cheetah",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Male_cheetah_facing_left_in_South_Africa.jpg",
+    "author": "AfricanConservation",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/brown_bear.webp",
+    "subject": "Brown bear",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2010-kodiak-bear-1.jpg",
+    "author": "Yathin S Krishnappa",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/wolf.webp",
+    "subject": "Wolf",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg",
+    "author": "User:Mas3cf",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/red_fox.webp",
+    "subject": "Red fox",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_(cropped).jpg",
+    "author": "ClaudiaTen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/raccoon.webp",
+    "subject": "Raccoon",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Raccoon_in_Central_Park_(35264).jpg",
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/rhinoceros.webp",
+    "subject": "Rhinoceros",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:109_Male_White_rhinoceros_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/orca.webp",
+    "subject": "Orca",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Killerwhales_jumping.jpg",
+    "author": "Robert Pittman",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/animals/emperor_penguin.webp",
+    "subject": "Emperor penguin",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
+    "author": "Ian Duffy from UK",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/ostrich.webp",
+    "subject": "Ostrich",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_Etosha_2014_(3).jpg",
+    "author": "Yathin S Krishnappa",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/bald_eagle.webp",
+    "subject": "Bald eagle",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bald_eagle_about_to_fly_in_Alaska_(2016).jpg",
+    "author": "Andy Morffew from Itchen Abbas, Hampshire, UK",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/hedgehog.webp",
+    "subject": "Hedgehog",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Erinaceus_europaeus_LC0119.jpg",
+    "author": "Jörg Hempel",
+    "license": "CC BY-SA 2.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+  },
+  {
+    "file": "pictures/animals/chameleon.webp",
+    "subject": "Chameleon",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Panther_chameleon_(Furcifer_pardalis)_male_Nosy_Be.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/sea_turtle.webp",
+    "subject": "Sea turtle",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/clownfish.webp",
+    "subject": "Clownfish",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Clown_fish_in_the_Andaman_Coral_Reef.jpg",
+    "author": "Ritiks",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/octopus.webp",
+    "subject": "Octopus",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+    "author": "albert kok",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/ladybug.webp",
+    "subject": "Ladybug",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:7-Spotted-Ladybug-Coccinella-septempunctata-sq1.jpg",
+    "author": "Photographer: Dominik Stodulski Graphic Processing: User:MathKnight",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/orangutan.webp",
+    "subject": "Orangutan",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Orang_Utan_(Pongo_pygmaeus)_female_with_baby_(8066259067).jpg",
+    "author": "Bernard DUPONT from FRANCE",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/animals/jaguar.webp",
+    "subject": "Jaguar",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Standing_jaguar.jpg",
+    "author": "USFWS",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/animals/moose.webp",
+    "subject": "Moose",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Alaska_moose.jpg",
+    "author": "Paxson Woelber",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/reindeer.webp",
+    "subject": "Reindeer",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg",
+    "author": "Are G Nilsen",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/bison.webp",
+    "subject": "Bison",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:American_bison_k5680-1.jpg",
+    "author": "Jack Dykinga",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/animals/beaver.webp",
+    "subject": "Beaver",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:American_Beaver.jpg",
+    "author": "Steve from Washington, DC, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/animals/sea_otter.webp",
+    "subject": "Sea otter",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Sea_Otter_(Enhydra_lutris)_(25169790524)_crop.jpg",
+    "author": "Marshal Hedin from San Diego",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/animals/walrus.webp",
+    "subject": "Walrus",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Walrus_in_the_Russian_Arctic_National_Park,_Novaya_Zemlya_2015-2.jpg",
+    "author": "Nixette",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/armadillo.webp",
+    "subject": "Armadillo",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Dasypus_novemcinctus_en_Zool%C3%B3gico_de_Paraguan%C3%A1.jpg",
+    "author": "Aramburu Carlos",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/animals/giant_anteater.webp",
+    "subject": "Giant anteater",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Myresluger2.jpg",
+    "author": "Malene Thyssen",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/animals/warthog.webp",
+    "subject": "Warthog",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Southern_warthog_(Phacochoerus_africanus_sundevallii)_male.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/hyena.webp",
+    "subject": "Hyena",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Spotted_hyena_(Crocuta_crocuta).jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/arctic_fox.webp",
+    "subject": "Arctic fox",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Vulpes_lagopus_in_Iceland_(cropped_3).jpg",
+    "author": "Jonatan Pie (unsplash.com/@r3dmax)",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "pictures/animals/japanese_macaque.webp",
+    "subject": "Japanese macaque",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Japanese_Snow_Monkey_(Macaque)_Mother_Grooms_Her_Young.jpg",
+    "author": "Rocktendo & Adam Gman",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/humpback_whale.webp",
+    "subject": "Humpback whale",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching_off_Cabo_San_Lucas.jpg",
+    "author": "Juan Cruzado Cortés",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/animals/manatee.webp",
+    "subject": "Manatee",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Manatee_with_calf.PD_-_colour_corrected.jpg",
+    "author": "Galen Rathbun",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/animals/scarlet_macaw.webp",
+    "subject": "Scarlet macaw",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_cyanopterus)_Copan.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/seahorse.webp",
+    "subject": "Seahorse",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hippocampus_hippocampus_(on_Ascophyllum_nodosum).jpg",
+    "author": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/monarch_butterfly.webp",
+    "subject": "Monarch butterfly",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Danaus_plexippus_on_flowers_(48483505276).jpg",
+    "author": "Mike's Birds from Riverside, CA, US",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/animals/snowy_owl.webp",
+    "subject": "Snowy owl",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bubo_scandiacus_male_Muskegon.jpg",
+    "author": "Bill Bouton from San Luis Obispo, CA, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/animals/kingfisher.webp",
+    "subject": "Kingfisher",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Alcedo_atthis_-England-8_(cropped).jpg",
+    "author": "Tony Wood",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/hornbill.webp",
+    "subject": "Hornbill",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Great_hornbill_Photograph_by_Shantanu_Kuveskar.jpg",
+    "author": "Shantanu Kuveskar",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/blue_footed_booby.webp",
+    "subject": "Blue-footed booby",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Blue-footed_Booby_(Sula_nebouxii)_-displaying.jpg",
+    "author": "Pete",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/animals/roseate_spoonbill.webp",
+    "subject": "Roseate spoonbill",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Roseate_Spoonbill_-_Myakka_River_State_Park.jpg",
+    "author": "User:Mwanner",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/animals/crocodile.webp",
+    "subject": "Crocodile",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:NileCrocodile.jpg",
+    "author": "Dewet",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/animals/galapagos_tortoise.webp",
+    "subject": "Galápagos tortoise",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Galapagos_giant_tortoise_Geochelone_elephantopus.jpg",
+    "author": "Mfield, Matthew Field, http://www.photography.mattfield.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/red_eyed_tree_frog.webp",
+    "subject": "Red-eyed tree frog",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Red-eyed_Tree_Frog_(Agalychnis_callidryas)_1.png",
+    "author": "Red-eyed Tree Frog (Agalychnis callidryas) 3.jpg: Geoff Gallice from Gainesville, FL, USA...",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/hammerhead_shark.webp",
+    "subject": "Hammerhead shark",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Scalloped_Hammerhead_Shark_Sphyrna_Lewini_(226845659).jpeg",
+    "author": "Kris Mikael Krister",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "file": "pictures/animals/aardvark.webp",
+    "subject": "Aardvark",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Orycteropus_afer_175359469.jpg",
+    "author": "Kelly Abram",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/animals/wombat.webp",
+    "subject": "Wombat",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Vombatus_ursinus_-Maria_Island_National_Park.jpg",
+    "author": "JJ Harrison (jjharrison89@facebook.com)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/tasmanian_devil.webp",
+    "subject": "Tasmanian devil",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_taranna.jpg",
+    "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/echidna.webp",
+    "subject": "Echidna",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Tachyglossus_aculeatus_side_on.jpg",
+    "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/african_wild_dog.webp",
+    "subject": "African wild dog",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:African_Wild_Dog_at_Working_with_Wildlife.jpg",
+    "author": "AfricanConservation",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/tarsier.webp",
+    "subject": "Tarsier",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Philippine_tarsier_(Carlito_syrichta_fraterculus)_Bohol.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/markhor.webp",
+    "subject": "Markhor",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg",
+    "author": "Rufus46",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/muskox.webp",
+    "subject": "Muskox",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Muskox_(Ovibos_moschatus)_male_Dovrefjell_4.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/caracal.webp",
+    "subject": "Caracal",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Caracal_on_the_road,_early_morning_in_Kgalagadi_(36173878220)_(cropped).jpg",
+    "author": "Derek Keats",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/honey_badger.webp",
+    "subject": "Honey badger",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mellivora_capensis_ssp._capensis.jpg",
+    "author": "Tony Rebelo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/gelada.webp",
+    "subject": "Gelada",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Gelada_(Theropithecus_gelada_gelada)_female_walking.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/saiga_antelope.webp",
+    "subject": "Saiga antelope",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg",
+    "author": "Andrey Giljov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/secretary_bird.webp",
+    "subject": "Secretary bird",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Secretary_bird_Mara_for_WC.jpg",
+    "author": "Sumeet Moghe",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/harpy_eagle.webp",
+    "subject": "Harpy eagle",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Harpia_harpyja_-Belize_Zoo-8-3c.jpg",
+    "author": "derivative work: Snowmanradio (talk) Harpia_harpyja_-Belize_Zoo-8.jpg: Michael Schamis",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/quetzal.webp",
+    "subject": "Quetzal",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg",
+    "author": "lwolfartist",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/hoopoe.webp",
+    "subject": "Hoopoe",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Israel._Eurasian_Hoopoe_(6497645007).jpg",
+    "author": "Greg Schechter from San Francisco, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/frilled_lizard.webp",
+    "subject": "Frilled lizard",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Frill-necked_Lizard_(Chlamydosaurus_kingii)_(8692622586).jpg",
+    "author": "Matt from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/animals/thorny_devil.webp",
+    "subject": "Thorny devil",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Thornydevil.jpg",
+    "author": "Bäras (talk · contribs)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/animals/gharial.webp",
+    "subject": "Gharial",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Gharial_(Gavialis_gangeticus)_male.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/animals/mandarinfish.webp",
+    "subject": "Mandarinfish",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Synchiropus_splendidus_01.jpg",
+    "author": "Llez",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/animals/ocean_sunfish.webp",
+    "subject": "Ocean sunfish",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mola_mola.jpg",
+    "author": "U.S. National Oceanic and Atmospheric Administration",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/volkswagen_beetle.webp",
+    "subject": "Volkswagen Beetle",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:VW_K%C3%A4fer_Baujahr_1966.jpg",
+    "author": "Vwexport1300",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/mini.webp",
+    "subject": "Mini",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Morris_Mini-Minor_1959_(621_AOK).jpg",
+    "author": "DeFacto",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  {
+    "file": "pictures/cars/citroen_2cv.webp",
+    "subject": "Citroën 2CV",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Citroen_2CV_1X7A7979.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/fiat_500.webp",
+    "subject": "Fiat 500",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1970_Fiat_500_L_--_2011_DC_1.jpg",
+    "author": "IFCAR",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/porsche_911.webp",
+    "subject": "Porsche 911",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Porsche_911_No_1000000,_70_Years_Porsche_Sports_Car,_Berlin_(1X7A3888).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/ford_mustang.webp",
+    "subject": "Ford Mustang",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_2D_Hardtop_Front.jpg",
+    "author": "Kroelleboelle",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/toyota_prius.webp",
+    "subject": "Toyota Prius",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Toyota_Prius_(XW20)_Washington_DC_Metro_Area,_USA.jpg",
+    "author": "OWS Photography",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/cars/lamborghini_countach.webp",
+    "subject": "Lamborghini Countach",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_-_Flickr_-_exfordy_(2)_(cropped-2).jpg",
+    "author": "Brian Snelson from Hockley, Essex, England",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/cars/delorean_dmc_12.webp",
+    "subject": "DeLorean DMC-12",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Delorean_DMC-12_side.jpg",
+    "author": "Kevin Abato, www.grenexmedia.com",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/cars/land_rover_defender.webp",
+    "subject": "Land Rover Defender",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2015_Land_Rover_Defender_(L316_MY15)_90_3-door_wagon_(2015-10-24)_01.jpg",
+    "author": "OSX",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/volkswagen_type_2.webp",
+    "subject": "Volkswagen Type 2",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Volkswagen_T1_Bus_in_Leeuwarden_(2023).jpg",
+    "author": "JoachimKohler-HB",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/ford_model_t.webp",
+    "subject": "Ford Model T",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1925_Ford_Model_T_touring.jpg",
+    "author": "ModelTMitch",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/jaguar_e_type.webp",
+    "subject": "Jaguar E-Type",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_Series_1_3.8_Litre_1961.jpg",
+    "author": "DeFacto",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/smart_fortwo.webp",
+    "subject": "Smart Fortwo",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/mercedes_benz_g_class.webp",
+    "subject": "Mercedes-Benz G-Class",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W463_G_350_BlueTEC_01.jpg",
+    "author": "Julian Herzog (Website)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/cars/tesla_cybertruck.webp",
+    "subject": "Tesla Cybertruck",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2024_Tesla_Cybertruck_Foundation_Series,_front_left_(Greenwich).jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/hummer_h1.webp",
+    "subject": "Hummer H1",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:94-00_AM_General_Hummer_soft_top.jpg",
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/willys_mb.webp",
+    "subject": "Willys MB",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Covered_Willy's_jeep_Wings_Over_Wine_Country_2007.JPG",
+    "author": "BrokenSphere",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "file": "pictures/cars/volkswagen_golf.webp",
+    "subject": "Volkswagen Golf",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2020_Volkswagen_Golf_Style_1.5_Front.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/ferrari_f40.webp",
+    "subject": "Ferrari F40",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:F40_Ferrari_20090509.jpg",
+    "author": "Will ainsworth",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/mazda_mx_5.webp",
+    "subject": "Mazda MX-5",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mazda_Roadster_(MX-5)_by_Negawa_Bridge_(cropped).jpg",
+    "author": "根川大橋 (Negawa Ohashi)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/tesla_model_s.webp",
+    "subject": "Tesla Model S",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Tesla_Model_S_(Facelift_ab_04-2016)_(cropped).jpg",
+    "author": "Peteratkins",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/nissan_gt_r.webp",
+    "subject": "Nissan GT-R",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2009-2010_Nissan_GT-R_(R35)_coupe_01.jpg",
+    "author": "OSX",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/bugatti_veyron.webp",
+    "subject": "Bugatti Veyron",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(1),_5._April_2012,_D%C3%BCsseldorf.jpg",
+    "author": "M 93",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "file": "pictures/cars/trabant_601.webp",
+    "subject": "Trabant 601",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Cream_Trabant_601_S_side_view.jpg",
+    "author": "Renée Kools",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/cars/chrysler_pt_cruiser.webp",
+    "subject": "Chrysler PT Cruiser",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2006-2009_Chrysler_PT_Cruiser.jpg",
+    "author": "IFCAR",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/aston_martin_db5.webp",
+    "subject": "Aston Martin DB5",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Aston_Martin_DB5_(Skyfall).jpg",
+    "author": "DeFacto",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/ferrari_testarossa.webp",
+    "subject": "Ferrari Testarossa",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ferrari_Testarossa_IMG_3043.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/bmw_isetta.webp",
+    "subject": "BMW Isetta",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:BMW_Isetta_-_Flickr_-_mick_-_Lumix.jpg",
+    "author": "Mick from Northamptonshire, England",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/cars/reliant_robin.webp",
+    "subject": "Reliant Robin",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1977_Reliant_Robin_850_(14136529926)_(cropped).jpg",
+    "author": "Niels de Wit from Lunteren, The Netherlands",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/cars/citroen_ds.webp",
+    "subject": "Citroën DS",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bornholm_Rundt_2012_(2012-07-08),_by_Klugschnacker_modified.jpg",
+    "author": "Klugschnacker",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/porsche_356.webp",
+    "subject": "Porsche 356",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2007-07-08_Porsche_356_C_(01_kl_ret).jpg",
+    "author": "Unknown author",
+    "license": "CC BY-SA 2.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+  },
+  {
+    "file": "pictures/cars/mercedes_benz_300_sl.webp",
+    "subject": "Mercedes-Benz 300 SL",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W198_300_SL_Gullwing_1X7A0196.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/bmw_m1.webp",
+    "subject": "BMW M1",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:BMW_M1,_front_right_(Brooklyn).jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/audi_quattro.webp",
+    "subject": "Audi Quattro",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1985_Audi_Quattro.jpg",
+    "author": "Calreyn88",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "pictures/cars/audi_tt.webp",
+    "subject": "Audi TT",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2019_Audi_TT_Sport_40_TFSi_S-A_2.0_Front.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/volkswagen_karmann_ghia.webp",
+    "subject": "Volkswagen Karmann Ghia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1958_Volkswagen_Type_14_Karmann.jpg",
+    "author": "Sicnag",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5"
+  },
+  {
+    "file": "pictures/cars/lamborghini_miura.webp",
+    "subject": "Lamborghini Miura",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1971_Lamborghini_Miura_P400_SV.jpg",
+    "author": "Chelsea Jay",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/ferrari_250_gto.webp",
+    "subject": "Ferrari 250 GTO",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GTO_SP25.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/alfa_romeo_spider.webp",
+    "subject": "Alfa Romeo Spider",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_Spider_(24928094612)_(cropped).jpg",
+    "author": "Marco 56",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/cars/lancia_stratos.webp",
+    "subject": "Lancia Stratos",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1974_Lancia_Stratos_Stradale_at_Greenwich_2021,_front_left.jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/renault_4.webp",
+    "subject": "Renault 4",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1984_Renault_4_GTL,_front_left_(Germany).jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/renault_5.webp",
+    "subject": "Renault 5",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1990_Renault_5_1.4_Auto_(9743019740).jpg",
+    "author": "Charlie from United Kingdom",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/cars/renault_twizy.webp",
+    "subject": "Renault Twizy",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Eng_Renault_Twizy_ZE.jpg",
+    "author": "Jwh",
+    "license": "CC BY-SA 3.0 lu",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/lu/deed.en"
+  },
+  {
+    "file": "pictures/cars/peugeot_205.webp",
+    "subject": "Peugeot 205",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Peugeot_205_front_20080121.jpg",
+    "author": "Rudolf Stricker",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/cars/citroen_h_van.webp",
+    "subject": "Citroën H Van",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Citroen_H_Van_1979_-_Flickr_-_mick_-_Lumix.jpg",
+    "author": "Mick from Northamptonshire, England",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/cars/morris_minor.webp",
+    "subject": "Morris Minor",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Morris_Minor_1000_in_New_Square_first_registered_February_1963_948cc_and_an_icon.jpg",
+    "author": "Charles01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/range_rover_classic.webp",
+    "subject": "Range Rover Classic",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1973_Land_Rover_Range_Rover_3.5.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/lotus_elise.webp",
+    "subject": "Lotus Elise",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Lotus_Elise_Club_Racer_(front_quarter).jpg",
+    "author": "Overlaet",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/mclaren_f1.webp",
+    "subject": "McLaren F1",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Front.jpg",
+    "author": "Chelsea Jay",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/mg_mgb.webp",
+    "subject": "MG MGB",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1967_MG_B_Roadster_1.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/volvo_p1800.webp",
+    "subject": "Volvo P1800",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1969_P1800_S.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/saab_900.webp",
+    "subject": "Saab 900",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1993_Saab_900_SE_Turbo_2.0_Front.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/volvo_240.webp",
+    "subject": "Volvo 240",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1988-1991_Volvo_240_GL_station_wagon_(2011-06-15)_01.jpg",
+    "author": "OSX",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/toyota_2000gt.webp",
+    "subject": "Toyota 2000GT",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:TOYOTA_2000GT.jpg",
+    "author": "Unknown author",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/cars/toyota_supra.webp",
+    "subject": "Toyota Supra",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2020_Toyota_GR_Supra_(United_States).png",
+    "author": "Gold Pony",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "file": "pictures/cars/datsun_240z.webp",
+    "subject": "Datsun 240Z",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1973_Datsun_240Z_white.jpg",
+    "author": "Calreyn88",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "pictures/cars/mazda_rx_7.webp",
+    "subject": "Mazda RX-7",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1994_Mazda_RX-7_R2_in_Vintage_Red,_front_left_(Lime_Rock).jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/honda_nsx.webp",
+    "subject": "Honda NSX",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Honda_NSX_red.jpg",
+    "author": "ed g2s • talk",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/cars/mitsubishi_lancer_evolution.webp",
+    "subject": "Mitsubishi Lancer Evolution",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2017-04-02_Mitsubishi_Lancer_Evolution_X_MR_SST_14_(2).jpg",
+    "author": "Klaus Nahr",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "pictures/cars/suzuki_jimny.webp",
+    "subject": "Suzuki Jimny",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2019_Suzuki_Jimny_SZ5_4X4_Automatic_1.5.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/chevrolet_bel_air.webp",
+    "subject": "Chevrolet Bel Air",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:57_Chevy_BelAir.jpg",
+    "author": "Chevrolet pre-1978",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/ford_gt40.webp",
+    "subject": "Ford GT40",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:GT40_at_Goodwood.jpg",
+    "author": "edvvc from London, UK",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/cars/dodge_charger.webp",
+    "subject": "Dodge Charger",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1969_Dodge_Charger_R-T,_front_right_(2022_Ellwood_City_Fall_Fest_%26_Car_Cruise).jpg",
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/ac_cobra.webp",
+    "subject": "AC Cobra",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Shelby_AC_427_Cobra_vl_blue.jpg",
+    "author": "Stahlkocher",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/cars/chevrolet_camaro.webp",
+    "subject": "Chevrolet Camaro",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Chevrolet_Camaro_RS_327_1968_(cropped).jpg",
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/cars/chevrolet_corvette_c2.webp",
+    "subject": "Chevrolet Corvette Sting Ray",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1963_Chevrolet_Corvette_Sting_Ray_Sport_Coupe,_front_left,_08-25-2024.jpg",
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/kia_soul.webp",
+    "subject": "Kia Soul",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2023_Kia_Soul_GT-Line_(facelift),_front_12.11.22.jpg",
+    "author": "Kevauto",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/lada_niva.webp",
+    "subject": "Lada Niva",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1987_Lada_Niva_1600.jpg",
+    "author": "TTTNIS",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/dodge_viper.webp",
+    "subject": "Dodge Viper",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%22_14_Fiat-Chrysler_SRT_Viper_GTS_(cropped).jpg",
+    "author": "Patrick Corcoran",
+    "license": "CC BY 2.0 it",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/it/deed.en"
+  },
+  {
+    "file": "pictures/cars/lotus_esprit.webp",
+    "subject": "Lotus Esprit",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1999_Lotus_Esprit_V8_type_918.jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/pagani_zonda.webp",
+    "subject": "Pagani Zonda",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_C12_'chassis_001'_Genf_2019_1Y7A5539.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/tata_nano.webp",
+    "subject": "Tata Nano",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Tata_-_Nano_-_Kolkata_2011-09-15_5184.JPG",
+    "author": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "file": "pictures/cars/messerschmitt_kr200.webp",
+    "subject": "Messerschmitt KR200",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Messerschmitt_Kabinenroller.jpg",
+    "author": "Stefan Kühn",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "file": "pictures/cars/hyundai_pony.webp",
+    "subject": "Hyundai Pony",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hyundai_Pony_1984_Utrecht.jpg",
+    "author": "Charles01",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/hindustan_ambassador.webp",
+    "subject": "Hindustan Ambassador",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:The_Classic_Ambassador_on_an_early_sunrise.jpg",
+    "author": "Jan J George",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/citroen_traction_avant.webp",
+    "subject": "Citroën Traction Avant",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Citroen_Traction_Avant_Classic-Gala_2021_1X7A0158.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/saab_96.webp",
+    "subject": "Saab 96",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1972_Saab_96_V4_1.5.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/volvo_amazon.webp",
+    "subject": "Volvo Amazon",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Volvo_122_-_Flickr_-_mick_-_Lumix_(cropped).jpg",
+    "author": "Mick from Northamptonshire, England",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/cars/alpine_a110.webp",
+    "subject": "Alpine A110",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Renault_Alpine_A_110_(Sp).JPG",
+    "author": "Lothar Spurzem",
+    "license": "CC BY-SA 2.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+  },
+  {
+    "file": "pictures/cars/peel_p50.webp",
+    "subject": "Peel P50",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1964_Peel_P50_Blue.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/subaru_360.webp",
+    "subject": "Subaru 360",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1970_Subaru_360_-_01.jpg",
+    "author": "This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in...",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/nissan_figaro.webp",
+    "subject": "Nissan Figaro",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1991_Nissan_Figaro_1.0_Front.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/lexus_lfa.webp",
+    "subject": "Lexus LFA",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_001.JPG",
+    "author": "Tennen-Gas",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/tucker_48.webp",
+    "subject": "Tucker 48",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1948_Tucker_Torpedo_(no._51)_in_Maroon,_front_left.jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/ford_thunderbird.webp",
+    "subject": "Ford Thunderbird",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1957_Ford_Thunderbird_(20418643125)_(cropped).jpg",
+    "author": "Greg Gjerdingen from Willmar, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "pictures/cars/bugatti_type_35.webp",
+    "subject": "Bugatti Type 35",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bugatti_35,_Bj_1924,_M_Nicolosi_-_1976.jpg",
+    "author": "Lothar Spurzem",
+    "license": "CC BY-SA 2.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+  },
+  {
+    "file": "pictures/cars/benz_patent_motorwagen.webp",
+    "subject": "Benz Patent-Motorwagen",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Benz_Patent-Motorwagen_replica_(22022009593).jpg",
+    "author": "先従隗始",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "pictures/cars/rolls_royce_silver_ghost.webp",
+    "subject": "Rolls-Royce Silver Ghost",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Silver_Ghost_at_Centenary.jpg",
+    "author": "The original uploader was Malcolma at English Wikipedia.",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  {
+    "file": "pictures/cars/de_tomaso_pantera.webp",
+    "subject": "De Tomaso Pantera",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1990_De_Tomaso_Pantera_GT5_S_LC23.jpg",
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/gaz_21_volga.webp",
+    "subject": "GAZ-21 Volga",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2018-08-26._%D0%90%D0%B2%D1%82%D0%BE-%D0%BC%D0%BE%D1%82%D0%BE_%D1%8D%D0%BA%D0%B7%D0%BE%D1%82%D0%B8%D0%BA%D0%B0_20.jpg",
+    "author": "Andrey Butko",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/mazda_cosmo.webp",
+    "subject": "Mazda Cosmo Sport",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1968_Mazda_Cosmo-Sport_01.jpg",
+    "author": "Mytho88",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/toyota_ae86.webp",
+    "subject": "Toyota AE86",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1983_Toyota_Corolla_Levin.jpg",
+    "author": "TTTNIS",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/hyundai_ioniq_5.webp",
+    "subject": "Hyundai Ioniq 5",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg",
+    "author": "© M 93",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  {
+    "file": "pictures/cars/kia_stinger.webp",
+    "subject": "Kia Stinger",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Kia_Stinger_Facelift_IMG_4468.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "pictures/cars/pontiac_aztek.webp",
+    "subject": "Pontiac Aztek",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2002-05_Pontiac_Aztek.jpg",
+    "author": "IFCAR",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/honda_s2000.webp",
+    "subject": "Honda S2000",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:HondaS2000-004.jpg",
+    "author": "Rich Niewiroski Jr.",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5"
+  },
+  {
+    "file": "pictures/cars/toyota_fj_cruiser.webp",
+    "subject": "Toyota FJ Cruiser",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2011_Toyota_FJ_Cruiser_(GSJ15R)_wagon_(2011-11-08)_01.jpg",
+    "author": "OSX",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/cars/austin_fx4.webp",
+    "subject": "Austin FX4",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1962_Austin_FX4_London_taxi.jpg",
+    "author": "MunBill",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "pictures/cars/citroen_sm.webp",
+    "subject": "Citroën SM",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Citroen_SM_(1972)_-_15340846543.jpg",
+    "author": "SG2012",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "covers/general.webp",
+    "subject": "Admont Abbey Library",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Austria_-_Admont_Abbey_Library_-_1326.jpg",
+    "author": "Jorge Royan",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "covers/history.webp",
+    "subject": "Terracotta Army",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Army,_Pit_1_09.jpg",
+    "author": "Gary Lee Todd, Ph.D.",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "covers/science.webp",
+    "subject": "Chemistry lab glassware",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Laboratorium_chemiczne,_Centrum_Nauki_Kopernik._fot._Robert_Kowalewski.jpg",
+    "author": "Robert Kowalewski",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "covers/geography.webp",
+    "subject": "Earth seen from Apollo 17",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg",
+    "author": "NASA/Apollo 17 crew; taken by either Harrison Schmitt or Ron Evans",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "covers/movies_tv.webp",
+    "subject": "35 mm film strip",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:35mm_movie_negative.jpg",
+    "author": "Runner1616",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "covers/music.webp",
+    "subject": "Piano keys",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Piano_(23579881).jpeg",
+    "author": "Miguel Castillo Lazo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "covers/sports.webp",
+    "subject": "Athletics track",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Athletics_track_start_line_numbers_1,_2,_3.jpg",
+    "author": "Santeri Viinamäki",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "covers/space.webp",
+    "subject": "Apollo 11 Saturn V launch",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch_-_GPN-2000-000630.jpg",
+    "author": "NASA",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "covers/food.webp",
+    "subject": "Mangoes at a market stall",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:DSCF0275_A_colorful_pile_of_ripe_and_unripe_mangoes_displayed_for_sale_at_a_market_stall_with_handwritten_yellow_price_signs_in_the_background.jpg",
+    "author": "PattayaPatrol",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "covers/animals.webp",
+    "subject": "Elephants below Mount Kilimanjaro",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Elephants_Kili_2.jpg",
+    "author": "M. Disdero",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  {
+    "file": "covers/inventions.webp",
+    "subject": "Light bulb filament",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Incandescent_Lamp_Filament.jpg",
+    "author": "Gauravggs",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "covers/olympics.webp",
+    "subject": "Panathenaic Stadium, Athens",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Panathenaic_Stadium,_Athens,_20240601_1013_0058.jpg",
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "covers/capitals.webp",
+    "subject": "Prague and the Vltava bridges",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Prague_skyline_view.jpg",
+    "author": "MurderousPass",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "covers/body.webp",
+    "subject": "Human iris",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Iris_of_human_male.jpg",
+    "author": "Osmo Lundell",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "covers/mythology.webp",
+    "subject": "Thor's Fight with the Giants (Mårten Eskil Winge)",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:M%C3%A5rten_Eskil_Winge_-_Tor's_Fight_with_the_Giants_-_Google_Art_Project.jpg",
+    "author": "Mårten Eskil Winge",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "covers/art.webp",
+    "subject": "The Starry Night (Vincent van Gogh)",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "author": "Vincent van Gogh",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "covers/dinosaurs.webp",
+    "subject": "Agathaumas (Charles R. Knight)",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Agathaumas.jpg",
+    "author": "Charles Robert Knight",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "covers/ocean.webp",
+    "subject": "Coral reef with sea fans",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Sea_fans_coral_reef_Pagan_2022.png",
+    "author": "NOAA Fisheries/Andrew Gray",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "covers/words.webp",
+    "subject": "Wood letterpress type",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Wood_letterpres_type_at_Washington_University_in_St._Louis.jpg",
+    "author": "Michellecornelison",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "covers/pic-flags.webp",
+    "subject": "Row of national flags",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Union_for_the_Mediterranean_flags.JPG",
+    "author": "Beoptylk",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "covers/pic-landmarks.webp",
+    "subject": "Ha Long Bay",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_-_Halong1419.jpg",
+    "author": "lumoplank",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "covers/pic-animals.webp",
+    "subject": "Giraffes on the savanna",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Giraffe_and_her_calf_(Unsplash).jpg",
+    "author": "Lisa H lh_photography",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "covers/countries.webp",
+    "subject": "Prague, capital of the Czech Republic",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Praha_Czech_(220907513).jpeg",
+    "author": "Jaewoo Park",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "file": "covers/economy.webp",
+    "subject": "Container port",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Container_port_(12848714813).jpg",
+    "author": "KimonBerlin",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "covers/biology.webp",
+    "subject": "Leaf venation of Dorstenia",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Leaf_venation_of_Dorstenia.jpg",
+    "author": "SebastianBlumeArt",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "covers/languages.webp",
+    "subject": "Multilingual road signs in Pustec, Albania",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Pustec_Multilingual_Road_Signs.jpg",
+    "author": "Albinfo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "covers/chemistry.webp",
+    "subject": "Laboratory glassware with colored solutions",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Equipment_and_glassware.jpg",
+    "author": "Belikov Maxim",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "covers/cars.webp",
+    "subject": "Classic Fiat 500",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:FIAT_500_Classic_%26_Sports_Car_Show_2016.jpg",
+    "author": "35mmMan",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "covers/pic-cars.webp",
+    "subject": "Row of classic Soviet cars",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Moscow_car_meet_2025-07-12_Soviet_row_01.jpg",
+    "author": "Retired electrician",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  }
+]
