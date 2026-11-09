@@ -1,0 +1,722 @@
+[
+  {
+    "file": "tunes/1812-overture.ogg",
+    "title": "1812 Overture, Op. 49",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "performer": "United States Marine Band, cond. Jason K. Fettig",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1812_Overture_-_United_States_Marine_Band.opus"
+  },
+  {
+    "file": "tunes/aida-triumphal-march.ogg",
+    "title": "Aida - Triumphal March (excerpt)",
+    "composer": "Giuseppe Verdi",
+    "performer": "United States Marine Band, cond. Timothy Foley",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Aida-Trompeten.ogg"
+  },
+  {
+    "file": "tunes/air-on-the-g-string.ogg",
+    "title": "Orchestral Suite No. 3, BWV 1068 - Air",
+    "composer": "Johann Sebastian Bach",
+    "performer": "United States Air Force Band, Air Force Strings",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Air_-_Air_Force_Strings_-_United_States_Air_Force_Band.mp3"
+  },
+  {
+    "file": "tunes/also-sprach-zarathustra.ogg",
+    "title": "Also sprach Zarathustra - Introduction (Sunrise)",
+    "composer": "Richard Strauss",
+    "performer": "Kevin MacLeod",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Richard_Strauss_-_Also_Sprach_Zarathustra.ogg"
+  },
+  {
+    "file": "tunes/anthem-argentina.ogg",
+    "title": "Himno Nacional Argentino",
+    "composer": "Blas Parera",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Himno_Nacional_Argentino_short_instrumental.ogg"
+  },
+  {
+    "file": "tunes/anthem-australia.ogg",
+    "title": "Advance Australia Fair",
+    "composer": "Peter Dodds McCormick",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:U.S._Navy_Band,_Advance_Australia_Fair_(instrumental).ogg"
+  },
+  {
+    "file": "tunes/anthem-canada.ogg",
+    "title": "O Canada",
+    "composer": "Calixa Lavallée",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:United_States_Navy_Band_-_O_Canada.ogg"
+  },
+  {
+    "file": "tunes/anthem-france.ogg",
+    "title": "La Marseillaise",
+    "composer": "Claude Joseph Rouget de Lisle",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_Marseillaise.ogg"
+  },
+  {
+    "file": "tunes/anthem-germany.ogg",
+    "title": "Das Lied der Deutschen",
+    "composer": "Joseph Haydn",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:German_national_anthem_performed_by_the_US_Navy_Band.ogg"
+  },
+  {
+    "file": "tunes/anthem-hungary-v2.ogg",
+    "title": "Himnusz",
+    "composer": "Ferenc Erkel",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_national_anthem,_performed_by_the_United_States_Navy_Band_(May_1997_arrangement).oga"
+  },
+  {
+    "file": "tunes/anthem-italy.ogg",
+    "title": "Il Canto degli Italiani",
+    "composer": "Michele Novaro",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:National_anthem_of_Italy_-_U.S._Navy_Band_(short_version).ogg"
+  },
+  {
+    "file": "tunes/anthem-japan.ogg",
+    "title": "Kimigayo",
+    "composer": "Yoshiisa Oku and Akimori Hayashi (credited to Hiromori Hayashi), harmonized by Franz Eckert",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kimi_ga_Yo_instrumental.ogg"
+  },
+  {
+    "file": "tunes/anthem-mexico.ogg",
+    "title": "Himno Nacional Mexicano",
+    "composer": "Jaime Nunó",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Himno_Nacional_Mexicano_instrumental.ogg"
+  },
+  {
+    "file": "tunes/anthem-netherlands.ogg",
+    "title": "Het Wilhelmus",
+    "composer": "Traditional",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:United_States_Navy_Band_-_Het_Wilhelmus.ogg"
+  },
+  {
+    "file": "tunes/anthem-poland.ogg",
+    "title": "Mazurek Dąbrowskiego",
+    "composer": "Traditional",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mazurek_Dabrowskiego.ogg"
+  },
+  {
+    "file": "tunes/anthem-spain.ogg",
+    "title": "Marcha Real",
+    "composer": "Manuel de Espinosa de los Monteros",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Marcha_Real-Royal_March_by_US_Navy_Band.ogg"
+  },
+  {
+    "file": "tunes/anthem-united-kingdom.ogg",
+    "title": "God Save the King",
+    "composer": "Traditional",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:U.S._Navy_Band_-_God_Save_the_King.oga"
+  },
+  {
+    "file": "tunes/anthem-united-states.ogg",
+    "title": "The Star-Spangled Banner",
+    "composer": "John Stafford Smith",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%22The_Star-Spangled_Banner%22_performed_by_the_United_States_Navy_Band.mp3"
+  },
+  {
+    "file": "tunes/auld-lang-syne.ogg",
+    "title": "Auld Lang Syne",
+    "composer": "Traditional",
+    "performer": "United States Navy Band, Ceremonial Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Auld_Lang_Syne_-_U.S._Navy_Band.ogg"
+  },
+  {
+    "file": "tunes/beethoven-symphony-5.ogg",
+    "title": "Symphony No. 5 in C minor, Op. 67 - I. Allegro con brio",
+    "composer": "Ludwig van Beethoven",
+    "performer": "Skidmore College Orchestra (Musopen)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_symphony_no._5_in_c_minor,_op._67_-_i._allegro_con_brio.ogg"
+  },
+  {
+    "file": "tunes/blue-danube-music-box.ogg",
+    "title": "The Blue Danube, Op. 314 - music box",
+    "composer": "Johann Strauss II",
+    "performer": "Polyphon music box disc (c. 1890), recorded by the uploader",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Polyphon_-_Donau-Walzer_(Johann_Strauss).ogg"
+  },
+  {
+    "file": "tunes/brahms-lullaby.ogg",
+    "title": "Wiegenlied (Lullaby), Op. 49 No. 4 - music box",
+    "composer": "Johannes Brahms",
+    "performer": "stephan (pdsounds.org)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lullaby_wound_up_clock_guten_abend_gute_nacht.ogg"
+  },
+  {
+    "file": "tunes/bridal-chorus.ogg",
+    "title": "Lohengrin - Bridal Chorus",
+    "composer": "Richard Wagner",
+    "performer": "Kevin MacLeod",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kevin_MacLeod_-_Wagner_Bridal_Chorus.ogg"
+  },
+  {
+    "file": "tunes/brindisi-usaf.ogg",
+    "title": "La traviata - Libiamo ne' lieti calici (Brindisi)",
+    "composer": "Giuseppe Verdi",
+    "performer": "United States Air Force Band, Singing Sergeants and Concert Band (2011)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%22Brindisi%22_from_La_Traviata_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3"
+  },
+  {
+    "file": "tunes/chopin-nocturne-op9-2.ogg",
+    "title": "Nocturne in E-flat major, Op. 9 No. 2",
+    "composer": "Frédéric Chopin",
+    "performer": "Peter Johnston (Musopen)",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chopin_Nocturne_No._2_in_E_Flat_Major,_Op._9.ogg"
+  },
+  {
+    "file": "tunes/clair-de-lune.ogg",
+    "title": "Suite bergamasque - Clair de lune",
+    "composer": "Claude Debussy",
+    "performer": "Laurens Goedhart (piano, 2011)",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Clair_de_lune_(Claude_Debussy)_Suite_bergamasque.ogg"
+  },
+  {
+    "file": "tunes/colonel-bogey.ogg",
+    "title": "Colonel Bogey March",
+    "composer": "Kenneth J. Alford",
+    "performer": "United States Navy Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Colonel_Bogey.mp3"
+  },
+  {
+    "file": "tunes/danny-boy.ogg",
+    "title": "Londonderry Air (Danny Boy)",
+    "composer": "Traditional",
+    "performer": "Jules Grandgagnage (tin whistle)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Danny_Boy_tin_whistle_by_JGrandgagnage.ogg"
+  },
+  {
+    "file": "tunes/eine-kleine-nachtmusik-advent.ogg",
+    "title": "Eine kleine Nachtmusik, K. 525 - I. Allegro",
+    "composer": "Wolfgang Amadeus Mozart",
+    "performer": "Advent Chamber Orchestra, dir. Roxanna Pavel Goldstein (2005)",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mozart_-_Eine_kleine_Nachtmusik_-_1._Allegro.ogg"
+  },
+  {
+    "file": "tunes/entry-of-the-gladiators.ogg",
+    "title": "Entry of the Gladiators, Op. 68",
+    "composer": "Julius Fučík",
+    "performer": "United States Marine Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Julius_Fu%C4%8D%C3%ADk's_%22Entrance_of_the_Gladiators%22,_performed_by_the_U.S._Marine_Band.oga"
+  },
+  {
+    "file": "tunes/flight-of-the-bumblebee.ogg",
+    "title": "The Tale of Tsar Saltan - Flight of the Bumblebee",
+    "composer": "Nikolai Rimsky-Korsakov",
+    "performer": "United States Air Force Band, Strolling Strings",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Flight_of_the_Bumblebee_-_Strolling_Strings_-_United_States_Air_Force_Band.mp3"
+  },
+  {
+    "file": "tunes/flower-duet.ogg",
+    "title": "Lakmé - Flower Duet",
+    "composer": "Léo Delibes",
+    "performer": "Philip Milman (conductor)",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PMM-Delibes-Flower-Duet-MASTER_V1.ogg"
+  },
+  {
+    "file": "tunes/funiculi-funicula.ogg",
+    "title": "Funiculì, Funiculà",
+    "composer": "Luigi Denza",
+    "performer": "Francesco Daddi (1906)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Funicul%C3%AC_Funicul%C3%A0_Daddi_3569e.ogg"
+  },
+  {
+    "file": "tunes/fur-elise.ogg",
+    "title": "Für Elise (Bagatelle in A minor, WoO 59)",
+    "composer": "Ludwig van Beethoven",
+    "performer": "V Gao (Gaodifan)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:FurElise.ogg"
+  },
+  {
+    "file": "tunes/greensleeves.ogg",
+    "title": "Greensleeves",
+    "composer": "Traditional",
+    "performer": "Anonymous pianist, recording by Dieter Leckschat",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Greensleeves_for_solo_piano.wav"
+  },
+  {
+    "file": "tunes/grieg-piano-concerto.ogg",
+    "title": "Piano Concerto in A minor, Op. 16 - I. Allegro molto moderato",
+    "composer": "Edvard Grieg",
+    "performer": "Musopen",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Edvard_Grieg_-_piano_concerto_in_a_minor,_op._16_-_i._allegro_molto_moderato.ogg"
+  },
+  {
+    "file": "tunes/gymnopedie-1.ogg",
+    "title": "Gymnopédie No. 1",
+    "composer": "Erik Satie",
+    "performer": "Teknopazzo",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gymnopedie_No._1..ogg"
+  },
+  {
+    "file": "tunes/habanera.ogg",
+    "title": "Carmen - Habanera",
+    "composer": "Georges Bizet",
+    "performer": "Kevin MacLeod",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kevin_MacLeod_-_Georges_Bizet_Habanera.ogg"
+  },
+  {
+    "file": "tunes/hall-of-the-mountain-king.ogg",
+    "title": "Peer Gynt - In the Hall of the Mountain King",
+    "composer": "Edvard Grieg",
+    "performer": "Czech National Symphony Orchestra (Musopen)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Musopen_-_In_the_Hall_Of_The_Mountain_King.ogg"
+  },
+  {
+    "file": "tunes/holst-mars.ogg",
+    "title": "The Planets - Mars, the Bringer of War",
+    "composer": "Gustav Holst",
+    "performer": "Skidmore College Orchestra (Musopen)",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Holst,_The_Planets,_Op._32_-_I._Mars,_the_Bringer_of_War.ogg"
+  },
+  {
+    "file": "tunes/hungarian-dance-5.ogg",
+    "title": "Hungarian Dance No. 5",
+    "composer": "Johannes Brahms",
+    "performer": "Arthur Nikisch (Welte-Mignon piano roll, 1906)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Brahms_nikisch_hd5.ogg"
+  },
+  {
+    "file": "tunes/hungarian-rhapsody-2.ogg",
+    "title": "Hungarian Rhapsody No. 2, S. 244/2",
+    "composer": "Franz Liszt",
+    "performer": "Jaan Patterson",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jaan_Patterson_-_01_-_Hungarian_Rhapsody_No2_S2442_Franz_Liszt.ogg"
+  },
+  {
+    "file": "tunes/jingle-bells.ogg",
+    "title": "Jingle Bells",
+    "composer": "James Lord Pierpont",
+    "performer": "Kevin MacLeod",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jingle_Bells_(90bpm)_(Kevin_MacLeod)_(ISRC_USUAN1100187).oga"
+  },
+  {
+    "file": "tunes/kalinka.ogg",
+    "title": "Kalinka",
+    "composer": "Ivan Larionov",
+    "performer": "Albert Janpolski (Victor Records, 1910)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%BA%D0%B0._%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%AF%D0%BD%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_(IA_78_kalinka_albert-janpolski_gbia0420126a).flac"
+  },
+  {
+    "file": "tunes/la-cucaracha.ogg",
+    "title": "La Cucaracha",
+    "composer": "Traditional",
+    "performer": "Kenmayer, Sean Buss (guitar), Elisa (vocals)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_Cucaracha.ogg"
+  },
+  {
+    "file": "tunes/la-donna-e-mobile.ogg",
+    "title": "Rigoletto - La donna è mobile",
+    "composer": "Giuseppe Verdi",
+    "performer": "Ernest Pike (before 1908)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:La_Donna_e_mobile.oga"
+  },
+  {
+    "file": "tunes/liberty-bell-march.ogg",
+    "title": "The Liberty Bell",
+    "composer": "John Philip Sousa",
+    "performer": "United States Marine Band, cond. Jason K. Fettig",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sousa_The_Liberty_Bell_United_States_Marine_Band.ogg"
+  },
+  {
+    "file": "tunes/maple-leaf-rag.ogg",
+    "title": "Maple Leaf Rag (1916 piano roll)",
+    "composer": "Scott Joplin",
+    "performer": "Scott Joplin (1916 piano roll)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Maple_Leaf_Rag_-_played_by_Scott_Joplin_1916_sample.ogg"
+  },
+  {
+    "file": "tunes/marriage-of-figaro-overture.ogg",
+    "title": "The Marriage of Figaro - Overture",
+    "composer": "Wolfgang Amadeus Mozart",
+    "performer": "United States Army Band (brass quintet)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wolfgang_Amadeus_Mozart_-_US_ARMY_-_Mozart_overture_to_the_marriage_of_figaro.ogg"
+  },
+  {
+    "file": "tunes/minute-waltz.ogg",
+    "title": "Waltz in D-flat major, Op. 64 No. 1 'Minute Waltz'",
+    "composer": "Frédéric Chopin",
+    "performer": "Olga Gurevich (Musopen)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chopin_-_Waltz_No._6_in_D-flat_major,_Op._64,_No._1_'Minute'_(Olga_Gurevich).flac"
+  },
+  {
+    "file": "tunes/moonlight-sonata.ogg",
+    "title": "Piano Sonata No. 14 'Moonlight' - I. Adagio sostenuto",
+    "composer": "Ludwig van Beethoven",
+    "performer": "eldüendesüarez",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Beethoven_-_Moonlight_Sonata_Op-27_No-2_Mvt-1._(Piano_Performance_by_eld%C3%BCendes%C3%BCarez)wav.wav"
+  },
+  {
+    "file": "tunes/morning-mood.ogg",
+    "title": "Peer Gynt - Morning Mood",
+    "composer": "Edvard Grieg",
+    "performer": "Czech National Symphony Orchestra (Musopen)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Musopen_-_Morning.ogg"
+  },
+  {
+    "file": "tunes/mozart-symphony-40.ogg",
+    "title": "Symphony No. 40 in G minor, K. 550 - I. Molto allegro",
+    "composer": "Wolfgang Amadeus Mozart",
+    "performer": "Tsumugi Orchestra, cond. Takashi Inoue",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mozart_Symphony_40_G_minor_-_1_Molto_allegro.oga"
+  },
+  {
+    "file": "tunes/nessun-dorma.ogg",
+    "title": "Turandot - Nessun dorma (instrumental)",
+    "composer": "Giacomo Puccini",
+    "performer": "Pracchia-78 (synthesizer)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Giacomo_Puccini_-_Nessun_dorma_-_versione_strumentale.ogg"
+  },
+  {
+    "file": "tunes/new-world-symphony.ogg",
+    "title": "Symphony No. 9 'From the New World' - IV. Allegro con fuoco",
+    "composer": "Antonín Dvořák",
+    "performer": "Musopen",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Antonin_Dvorak_-_symphony_no._9_in_e_minor_'from_the_new_world',_op._95_-_iv._allegro_con_fuoco.ogg"
+  },
+  {
+    "file": "tunes/o-mio-babbino-caro.ogg",
+    "title": "Gianni Schicchi - O mio babbino caro",
+    "composer": "Giacomo Puccini",
+    "performer": "Frances Alda (1919)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Frances_Alda,_O_mio_babbino_caro_(Gianni_Schicchi).ogg"
+  },
+  {
+    "file": "tunes/ode-to-joy.ogg",
+    "title": "Symphony No. 9 - Ode to Joy theme",
+    "composer": "Ludwig van Beethoven",
+    "performer": "Raul654 (MIDI from the Mutopia Project)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ode_to_Joy.ogg"
+  },
+  {
+    "file": "tunes/pachelbel-canon.ogg",
+    "title": "Canon in D",
+    "composer": "Johann Pachelbel",
+    "performer": "United States Air Force Band, Strolling Strings",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Canon_(2004)_-_Strolling_Strings_-_United_States_Air_Force_Band.mp3"
+  },
+  {
+    "file": "tunes/pictures-promenade.ogg",
+    "title": "Pictures at an Exhibition - Promenade",
+    "composer": "Modest Mussorgsky",
+    "performer": "Musopen",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Modest_Mussorgsky_-_pictures_at_an_exhibition_-_promenade_-_allegro_giusto,_nel_modo_russico_senza_allegrezza,_ma.ogg"
+  },
+  {
+    "file": "tunes/pomp-and-circumstance.ogg",
+    "title": "Pomp and Circumstance March No. 1",
+    "composer": "Edward Elgar",
+    "performer": "United States Marine Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ELGAR_Pomp_and_Circumstance_in_D,_Opus_39,_No._1_-_United_States_Marine_Band.mp3"
+  },
+  {
+    "file": "tunes/rachmaninoff-prelude-c-sharp-minor.ogg",
+    "title": "Prelude in C-sharp minor, Op. 3 No. 2 (Edison Diamond Disc 82187, recorded 1919)",
+    "composer": "Sergei Rachmaninoff",
+    "performer": "Sergei Rachmaninoff (piano, 1919)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sergei_Rachmaninoff_performs_Rachmaninoff's_Prelude_in_C_sharp_minor,_Op._3.ogg"
+  },
+  {
+    "file": "tunes/radetzky-march.ogg",
+    "title": "Radetzky March, Op. 228",
+    "composer": "Johann Strauss I",
+    "performer": "United States Marine Band, cond. John R. Bourgeois",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:STRAUSS_Radetzky_March_-_%22The_President's_Own%22_U.S._Marine_Band.opus"
+  },
+  {
+    "file": "tunes/rhapsody-in-blue.ogg",
+    "title": "Rhapsody in Blue (1924 recording)",
+    "composer": "George Gershwin",
+    "performer": "Paul Whiteman Orchestra with George Gershwin (piano), 1924",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rhapsody_in_Blue_-_Original_1924_Recording.opus"
+  },
+  {
+    "file": "tunes/ride-of-the-valkyries.ogg",
+    "title": "Die Walküre - Ride of the Valkyries",
+    "composer": "Richard Wagner",
+    "performer": "Philip Milman (conductor)",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ride_of_the_Valkyries.ogg"
+  },
+  {
+    "file": "tunes/russian-dance-trepak.ogg",
+    "title": "The Nutcracker - Russian Dance (Trepak)",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "performer": "Philip Milman (conductor)",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tchaikovsky_-_Nutcracker_Suite_-_Russian_Dance_-_Philip_Milman_-_Lud_and_Schlatts_Musical_Emporium.wav"
+  },
+  {
+    "file": "tunes/sakura-sakura.ogg",
+    "title": "Sakura Sakura",
+    "composer": "Traditional",
+    "performer": "Kanohara (Wikimedia Commons)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sakura_Sakura.song.ogg"
+  },
+  {
+    "file": "tunes/schumann-traumerei.ogg",
+    "title": "Kinderszenen, Op. 15 - No. 7 Träumerei",
+    "composer": "Robert Schumann",
+    "performer": "Musopen",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Robert_Schumann_-_scenes_from_childhood,_op._15_-_vii._dreaming.ogg"
+  },
+  {
+    "file": "tunes/scotland-the-brave.ogg",
+    "title": "Scotland the Brave",
+    "composer": "Traditional",
+    "performer": "United States Air Force Reserve Band, Pipe Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Scotland_the_Brave_-_United_States_Air_Force_Pipe_Band.oga"
+  },
+  {
+    "file": "tunes/stars-and-stripes-forever.ogg",
+    "title": "The Stars and Stripes Forever",
+    "composer": "John Philip Sousa",
+    "performer": "United States Marine Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:USMC_stars_stripes_forever.ogg"
+  },
+  {
+    "file": "tunes/sugar-plum-fairy.ogg",
+    "title": "The Nutcracker - Dance of the Sugar Plum Fairy",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "performer": "Kevin MacLeod",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dance_of_the_Sugar_Plum_Fairies_(ISRC_USUAN1100270).oga"
+  },
+  {
+    "file": "tunes/the-entertainer.ogg",
+    "title": "The Entertainer (piano roll)",
+    "composer": "Scott Joplin",
+    "performer": "Piano roll (Free Music Archive)",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Scott_Joplin_-_04_-_The_Entertainer_1902_piano_roll.mp3"
+  },
+  {
+    "file": "tunes/the-swan.ogg",
+    "title": "The Carnival of the Animals - The Swan",
+    "composer": "Camille Saint-Saëns",
+    "performer": "John Michel (cello)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:JOHN_MICHEL_CELLO-SAINT_SAENS_CARNIVAL_OF_ANIMALS_THE_SWAN.ogg"
+  },
+  {
+    "file": "tunes/toccata-and-fugue.ogg",
+    "title": "Toccata and Fugue in D minor, BWV 565",
+    "composer": "Johann Sebastian Bach (attributed)",
+    "performer": "Ashtar Moïra (organ)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Toccata_et_Fugue_BWV565.ogg"
+  },
+  {
+    "file": "tunes/toreador-song-usaf.ogg",
+    "title": "Carmen - Toreador Song (Votre toast)",
+    "composer": "Georges Bizet",
+    "performer": "United States Air Force Band, Singing Sergeants and Concert Band (2011)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%22Votre_Toast%22_from_Carmen_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3"
+  },
+  {
+    "file": "tunes/turkish-march.ogg",
+    "title": "Piano Sonata No. 11, K. 331 - III. Rondo alla turca",
+    "composer": "Wolfgang Amadeus Mozart",
+    "performer": "MIDI from the Mutopia Project",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rondo_Alla_Turka.ogg"
+  },
+  {
+    "file": "tunes/vivaldi-spring.ogg",
+    "title": "The Four Seasons - Spring, I. Allegro",
+    "composer": "Antonio Vivaldi",
+    "performer": "John Harrison (violin), Wichita State University, cond. Robert Turizziani",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Vivaldi_-_Four_Seasons_1_Spring_mvt_1_Allegro_-_John_Harrison_violin.oga"
+  },
+  {
+    "file": "tunes/vivaldi-winter.ogg",
+    "title": "The Four Seasons - Winter, I. Allegro non molto",
+    "composer": "Antonio Vivaldi",
+    "performer": "John Harrison (violin), Wichita State University, cond. Robert Turizziani",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Vivaldi_-_Four_Seasons_4_Winter_mvt_1_Allegro_non_molto_-_John_Harrison_violin.oga"
+  },
+  {
+    "file": "tunes/waltzing-matilda.ogg",
+    "title": "Waltzing Matilda (Marie Cowan arrangement)",
+    "composer": "Christina Macpherson, arr. Marie Cowan",
+    "performer": "BDW82",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Waltzing-Matilda-_Marie-Cowan_-Wikipedia.ogg"
+  },
+  {
+    "file": "tunes/william-tell-overture.ogg",
+    "title": "William Tell Overture - finale",
+    "composer": "Gioachino Rossini",
+    "performer": "United States Marine Band, cond. Timothy Foley",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gioachino_Rossini,_William_Tell_Overture_(military_band_version,_2000).ogg"
+  },
+  {
+    "file": "tunes/yankee-doodle.ogg",
+    "title": "Yankee Doodle",
+    "composer": "Traditional",
+    "performer": "United States Air Force Heritage of America Band",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Yankee_Doodle_-_Concert_Band_-_United_States_Air_Force_Heritage_of_America_Band.mp3"
+  }
+]
