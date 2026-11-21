@@ -3200,6 +3200,94 @@
     "license_url": "https://creativecommons.org/licenses/by/2.0"
   },
   {
+    "file": "pictures/films/trip_to_the_moon.webp",
+    "subject": "A Trip to the Moon",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:A_Trip_to_the_Moon_(Le_Voyage_dans_la_Lune).jpg",
+    "author": "Breve Storia del Cinema",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/films/great_train_robbery.webp",
+    "subject": "The Great Train Robbery",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Great_train_robbery_still.jpg",
+    "author": "Edwin Stanton Porter",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/films/arrival_of_a_train.webp",
+    "subject": "Arrival of a Train at La Ciotat",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Arriv%C3%A9e_d%E2%80%99un_train_%C3%A0_La_Ciotat_1897.png",
+    "author": "Louis Lumière",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/films/alice_1903.webp",
+    "subject": "Alice in Wonderland",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Alice_in_Wonderland_(1903)_-_White_Rabbit.jpg",
+    "author": "Percy Stow, Cecil M.Hepworth, Samuele De Marchi",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/films/gertie.webp",
+    "subject": "Gertie the Dinosaur",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Gertie_the_dinosaur_standing_on_a_cliff_edge_looking_at_a_mastodon_frame.jpg",
+    "author": "Winsor McCay",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/films/frankenstein_1910.webp",
+    "subject": "Frankenstein",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Frankenstein1910.jpg",
+    "author": "J. Searle Dawley",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/films/intolerance.webp",
+    "subject": "Intolerance",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Intolerance-lillian_gish.jpg",
+    "author": "Unknown author",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/films/caligari.webp",
+    "subject": "The Cabinet of Dr. Caligari",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CABINET_DES_DR_CALIGARI_01.jpg",
+    "author": "Willy Hameister",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/films/nosferatu.webp",
+    "subject": "Nosferatu",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Nosferatu_(1922)_-_Count_Orlok_Standing_In_A_Wooden_Doorway.png",
+    "author": "F. W. Murnau / Henrik Galeen",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/films/sunrise.webp",
+    "subject": "Sunrise",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:George_O'Brien_and_Margaret_Livingston_in_Sunrise.jpeg",
+    "author": "Unknown photographer",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
+    "file": "pictures/films/man_with_a_movie_camera.webp",
+    "subject": "Man with a Movie Camera",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Man_with_a_movie_camera_1929_2.png",
+    "author": "Dziga Vertov",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  {
     "file": "covers/general.webp",
     "subject": "Admont Abbey Library",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Austria_-_Admont_Abbey_Library_-_1326.jpg",
@@ -3438,5 +3526,13 @@
     "author": "Retired electrician",
     "license": "CC0 1.0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "file": "covers/pic-films.webp",
+    "subject": "Scene from A Trip to the Moon (1902)",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:A_Trip_to_the_Moon_(Le_Voyage_dans_la_Lune).jpg",
+    "author": "Breve Storia del Cinema",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
   }
 ]
